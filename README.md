@@ -12,4 +12,4 @@ _> A separate adder block was used to get the next value for program counter
 _> Jump instructions are added in their own 8 bit jump adder
 _> Zero flag (ZF) given as output with result from ALU which is used in JUMP instruction
 
-The instruction format and other details are mentioned in the ppt in a more understandable format
+The instruction format and other details are mentioned in the pdf in a more understandable format
